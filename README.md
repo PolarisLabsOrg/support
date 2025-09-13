@@ -1,5 +1,5 @@
 
-![DC Banner](https://raw.githubusercontent.com/PolarisLabsOrg/support/refs/heads/main/images/Polaris%20Labs.png) 
+![Banner](https://raw.githubusercontent.com/PolarisLabsOrg/support/refs/heads/main/images/Polaris%20Labs.png) 
 # **Polaris**
 
 Welcome to Polaris where anyone interested in coding can connect and interact with fellow peers from all over the globe and not only learn but also collaborate on various projects!
