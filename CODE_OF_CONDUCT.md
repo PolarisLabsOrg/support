@@ -45,6 +45,4 @@ In case any community members violate or ignore the Code of Conduct, the communi
 ## Report
 
 If you have witnessed or experienced any of the above points or anything else as well which makes you feel unsafe or uncomfortable, please straight away report it to the Founder/ Moderators:
-
-- [Design and Code](https://discord.gg/druweDMn3s)
-- designandcode.community@gmail.com
+- codelabsorg@proton.me
