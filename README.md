@@ -1,5 +1,5 @@
 
-![DC Banner](https://user-images.githubusercontent.com/65373279/116761730-055f0000-aa36-11eb-80b0-96f321958926.png)
+![DC Banner](https://user-images.githubusercontent.com/65373279/116761730-055f0000-aa36-11eb-80b0-96f321958926.png) 
 # **Polaris**
 
 Welcome to Polaris where anyone interested in coding can connect and interact with fellow peers from all over the globe and not only learn but also collaborate on various projects!
