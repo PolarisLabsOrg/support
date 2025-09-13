@@ -29,4 +29,5 @@ body:
       required: false
   - type: markdown
     attributes:
-      value:  |
+      value: |
+        Feel free to check out other cool repositories of the Polaris Community [here](https://github.com/PolarisLabsOrg)
